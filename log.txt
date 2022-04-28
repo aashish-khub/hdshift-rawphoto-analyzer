@@ -1,0 +1,111 @@
+Opening File: IMG_5660.DNG
+Comment:  faint blue
+Mean = 529.1584827887468
+StDv = 18.965387724684323
+
+Opening File: IMG_5661.DNG
+Comment:  fainter of twins
+Mean = 648.9926470588235
+StDv = 29.94225795561308
+
+Comment:  brighter of twins
+Mean = 1335.6620775969961
+StDv = 177.4703936632043
+
+Opening File: IMG_5664.DNG
+Comment:  rly bright turquoise, eq parts b and g
+Mean = 3949.8603603603606
+StDv = 463.9567181932243
+
+Opening File: IMG_5666.DNG
+Comment:  central to this photo
+Mean = 626.4754901960785
+StDv = 18.544577645603727
+
+Comment:  also central to same photo maybe discard?
+Mean = 628.3166666666667
+StDv = 21.123383755209325
+
+Opening File: IMG_5667.DNG
+Comment:  central to this photo
+Mean = 568.9303571428571
+StDv = 16.81837239070562
+
+Opening File: IMG_5669.DNG
+Comment:  allegedly yellow line maybe just one of the two prev recorded ones
+Mean = 544.1176470588235
+StDv = 10.856844369128797
+
+Opening File: IMG_5671.DNG
+Comment:  that which is in the crosshairs
+Mean = 547.8478260869565
+StDv = 11.098228853285518
+
+Opening File: IMG_5672.DNG
+Comment:  crosshaired in this photo
+Mean = 553.6068181818182
+StDv = 12.298279586394349
+
+Opening File: IMG_5673.DNG
+Comment:  right before big bright red
+Mean = 554.1896745230079
+StDv = 12.32755096980517
+
+Opening File: IMG_5674.DNG
+Comment:  bright red! as awaited
+Mean = 1016.9247311827957
+StDv = 51.21076763437481
+
+Opening File: IMG_5675.DNG
+Comment:  faint red
+Mean = 598.4375
+StDv = 20.18177716318079
+
+Opening File: IMG_5676.DNG
+Comment:  brightest red
+Mean = 4072.163440860215
+StDv = 4.593960152299005
+
+Opening File: IMG_5678.DNG
+Comment:  blue twins again, this is brighter
+Mean = 580.3345454545455
+StDv = 16.373617561984148
+
+Opening File: IMG_5679.DNG
+Comment:  fainter of the blue twins
+Mean = 542.6696428571429
+StDv = 10.441778828846367
+
+Opening File: IMG_5680.DNG
+Comment:  turquoise
+Mean = 1138.6734693877552
+StDv = 63.98203207035574
+
+Opening File: IMG_5681.DNG
+Comment:  weird fuzzy noise??
+Mean = 549.1693181818182
+StDv = 11.256097922646857
+
+Opening File: IMG_5686.DNG
+Comment:  fuzzy again
+Mean = 542.3626900198282
+StDv = 10.53373154358885
+
+Opening File: IMG_5687.DNG
+Comment:  red signal
+Mean = 606.8083333333333
+StDv = 21.41827328604142
+
+Opening File: IMG_5688.DNG
+Comment:  faint red in last photo
+Mean = 629.0223285486443
+StDv = 7.252133536405327
+Comment:  blue line in last photo
+Mean = 577.4675925925926
+StDv = 16.86435166756649
+Comment:  final red fringe
+Mean = 4068.628477905074
+StDv = 19.260241371364664
+Opening File: IMG_5688.DNG
+
+
